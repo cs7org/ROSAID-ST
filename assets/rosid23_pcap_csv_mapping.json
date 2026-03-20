@@ -1,0 +1,7 @@
+{
+    "DoS": "DoS",
+    "noattack": "normal",
+    "subcriberflood": "subscriberflood",
+    "unauthorizedpublisher": "unauthorizedpublisher",
+    "unauthorizedsubsriber": "unauthorizedsubscriber"
+}
